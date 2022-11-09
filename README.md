@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF8_632202_IMPULSO_MULTICANAL_PRODUCTOS_ALIMENTICIOS/#/](https://sena-externos.github.io/CF8_632202_IMPULSO_MULTICANAL_PRODUCTOS_ALIMENTICIOS/#/)
 
 #
 
