@@ -55,7 +55,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Gestión de inventarios',
         desarrolloContenidos: true,
         subMenu: [
           {

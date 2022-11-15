@@ -28,7 +28,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg6")
           .row.justify-content-center.align-items-center(titulo="Abastecimiento")
             .col-12
-              p Para el abastecimiento se debe tener presente la demanda. Esta es fundamental porque va a marcar el punto de inicio para los inventarios, ya sea con estudios de mercado o investigaciones que analicen el comportamiento de los clientes, con el fin de manejar cantidades idóneas; también se puede hacer uso de técnicas como just-in-time, la cual indica tener la cantidad necesaria en el momento indicado, sin caer en sobrecostos. Sin embargo, no se puede pensar que los inventarios son innecesarios u obsoletos, puesto que, dependiendo del tipo de actividad económica, estos van a ser necesarios en mayor o menor medida; por ejemplo, en el caso de los productos alimenticios de los supermercados se debe tener la cantidad necesaria, considerando que se van a tener clientes durante todo el día, y que es importante tener productos de diferentes variedades y presentaciones que el cliente pueda tomar en todo momento, de lo contrario, se estaría perdiendo una venta. Por esto la gestión de inventarios y la rotación de los productos debe ser precisa.  
+              p Para el abastecimiento se debe tener presente la demanda. Esta es fundamental porque va a marcar el punto de inicio para los inventarios, ya sea con estudios de mercado o investigaciones que analicen el comportamiento de los clientes, con el fin de manejar cantidades idóneas; también se puede hacer uso de técnicas como <i>just-in-time</i>, la cual indica tener la cantidad necesaria en el momento indicado, sin caer en sobrecostos. Sin embargo, no se puede pensar que los inventarios son innecesarios u obsoletos, puesto que, dependiendo del tipo de actividad económica, estos van a ser necesarios en mayor o menor medida; por ejemplo, en el caso de los productos alimenticios de los supermercados se debe tener la cantidad necesaria, considerando que se van a tener clientes durante todo el día, y que es importante tener productos de diferentes variedades y presentaciones que el cliente pueda tomar en todo momento, de lo contrario, se estaría perdiendo una venta. Por esto la gestión de inventarios y la rotación de los productos debe ser precisa.  
           .row.justify-content-center.align-items-center(titulo="Fabricación")
             .col-12
               p Como segundo eslabón de la cadena de valor se tiene la fabricación. Se presenta en empresas dedicadas exclusivamente a la compra y venta de productos, o que permiten agregar valor en los diferentes procesos a ciertos artículos, pasando, por ejemplo, de una materia prima a un producto elaborado que suelen vender al por mayor. En esta etapa el control de calidad es fundamental, desde el momento en que se reciben los productos y pasando por cada una de las secciones o etapas, ya que se debe garantizar la calidad a la siguiente estación, y así entregar un producto idóneo, evitando reprocesos que se convierten en sobrecostos para la compañía.  
@@ -155,7 +155,7 @@
       h2 3.3 Trazabilidad del producto
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
-      .bloque-texto-g__img(
+      .bloque-texto-g__img.img-h(
         :style="{'background-image': `url(${require('@/assets/curso/temas/53.svg')})`}"
       )
       .bloque-texto-g__texto.p-4

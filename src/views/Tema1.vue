@@ -116,32 +116,32 @@
               figure
                 img(src="@/assets/curso/temas/12.svg", alt="alt").img100
             .col
-              h5 Tasa de conversión
-              p Consiste en medir, en un periodo de tiempo, la cantidad de clientes que se convirtieron en compradores al llevar el producto, entre la cantidad de personas que ingresaron a la tienda.<br><br> = N.º de compradores / N.º de ingresos
+              h5 Las características físicas
+              p Cómo lo son la temperatura, el tiempo y la humedad, las cuales favorecen el crecimiento de los diferentes microorganismos.
         .crd.crd--avatarHorizontal.crd--med1.py-4
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/13.svg", alt="alt").img100
             .col
-              h5 Valor venta promedio
-              p Valor total o bruto facturado en un período de tiempo, sobre el total de ventas. <br><br>= Valor facturado por ventas / Cantidad de ventas
+              h5 Cantidad de bacterias o virus
+              p Consumir una cantidad de alimento que contenga una cantidad de virus o bacterias que sobrepasen las defensas del comensal.
         .crd.crd--avatarHorizontal.crd--med2.py-4
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/14.svg", alt="alt").img100
             .col
-              h5 Unidades promedio por venta 
-              p Busca medir cuántas unidades se venden por cliente. <br><br>= Total de ventas / N.º de clientes                
+              h5 Contraindicaciones al tipo de alimento
+              p Condiciones preexistentes de las personas afectadas, ya que algunos pueden tener más susceptibilidad que otros, como por ejemplo las mujeres embarazadas, los niños y los adultos mayores, o las personas que presenten algún tipo de inmunosupresión o defensas muy bajas.              
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/15.svg", alt="alt").img100
             .col
-              h5 Satisfacción del cliente
-              p Es fundamental, permite acceder a una retroalimentación y saber qué se puede mejorar. Normalmente, se utiliza un buzón de sugerencias o encuestas a los clientes, que luego son tabuladas y los resultados sirven como base para implementar planes de acción (Aguirre, 2022, p. 1).  
+              h5 Otros factores
+              p Factores derivados de malos hábitos alimentarios, como tener la costumbre de comer en la calle o en sitios donde las prácticas de higiene son escasas. 
               
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-2.my-3
@@ -193,15 +193,15 @@
         ul.lista-ul.ps-2.mb-0
           li 
             i.fas.fa-angle-right.colorv
-            p.mb-0 Por parte de los entes internacionales se cuenta con el Reglamento Sanitario Internacional (RSI), que tiene como finalidad prevenir la propagación de enfermedades a nivel internacional, además de controlar y solucionar inconvenientes de salud pública, obligando a los países a reforzar el control y la vigilancia. 
+            p.mb-0 Por parte de los entes internacionales se cuenta con el <b>Reglamento Sanitario Internacional (RSI)</b>, que tiene como finalidad prevenir la propagación de enfermedades a nivel internacional, además de controlar y solucionar inconvenientes de salud pública, obligando a los países a reforzar el control y la vigilancia. 
 
           li 
             i.fas.fa-angle-right.colorv
-            p.mb-0 Otra de las pautas internacionales son los Objetivos de desarrollo sostenible (ODS), donde se menciona en los objetivos 3 y 6 el deber de garantizar una vida saludable y la disponibilidad de agua potable. 
+            p.mb-0 Otra de las pautas internacionales son los <b>Objetivos de desarrollo sostenible (ODS)</b>, donde se menciona en los objetivos 3 y 6 el deber de garantizar una vida saludable y la disponibilidad de agua potable. 
 
           li 
             i.fas.fa-angle-right.colorv
-            p.mb-0 Por parte de la normativa nacional se tiene la Ley 9 de 1979, Ley 715 de 2001 y la Ley 1122 de 2007, entre otro tipo de resoluciones que buscan proteger y garantizar la salud de los consumidores en los puntos de venta o expendio de productos alimenticios, sean crudos o preparados. 
+            p.mb-0 Por parte de la normativa nacional se tiene la <b>Ley 9 de 1979, Ley 715 de 2001 y la Ley 1122 de 2007</b>, entre otro tipo de resoluciones que buscan proteger y garantizar la salud de los consumidores en los puntos de venta o expendio de productos alimenticios, sean crudos o preparados. 
 
     p(data-aos="fade-down").mb-5 A continuación, se dejan algunas recomendaciones con ánimo de evitar enfermedades transmitidas por alimentos: 
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/22.svg', alt='')       

@@ -28,7 +28,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg6")
           .row.justify-content-center.align-items-center(titulo="Protección")
             .col-12
-              p La administración de un inventario depende de factores como la demanda, la oferta y los tiempos de reposición. Cuando estos factores son predecibles o se comportan de una manera estable no se necesitará aumentar los inventarios, ya que el proceso dejaría de ser económico para la operación. Sin embargo, cuando nos enfrentamos a una demanda muy variable, donde no se tiene una estimación confiable, es imprescindible contar con un stock o protección para atender las necesidades de los clientes, puesto que de lo contrario nos enfrentaremos a incumplimientos, y por consiguiente a la posible pérdida de los compradores. 
+              p La administración de un inventario depende de factores como la demanda, la oferta y los tiempos de reposición. Cuando estos factores son predecibles o se comportan de una manera estable no se necesitará aumentar los inventarios, ya que el proceso dejaría de ser económico para la operación. Sin embargo, cuando nos enfrentamos a una demanda muy variable, donde no se tiene una estimación confiable, es imprescindible contar con un <i>stock</i> o protección para atender las necesidades de los clientes, puesto que de lo contrario nos enfrentaremos a incumplimientos, y por consiguiente a la posible pérdida de los compradores. 
           .row.justify-content-center.align-items-center(titulo="Economías de escala")
             .col-12
               p En algunas ocasiones es más rentable producir inventarios en lotes, es decir, distribuir los costos fijos que se tienen en la producción y el uso que se da a los recursos de manera eficiente. Para el caso del abastecimiento ocurre algo similar siempre que no se incrementen de manera exagerada los inventarios, puesto que en muchas ocasiones los proveedores ofrecen tarifas especiales, de acuerdo con la cantidad de producto a adquirir; sin embargo, se debe tener cuidado en comprar o adquirir inventarios que no se necesitan solo por perseguir descuentos. “Para minimizar los efectos, se podría establecer acuerdos comerciales mediante órdenes de compra abiertas, con entregas parciales, con lo que se traslada la tarea de inventariar a la empresa proveedora”. (Espejo, 2022, 135).  
@@ -66,7 +66,7 @@
           .col-lg-7.mb-4.mb-md-0
             p Una caja de cereal de 300 g tiene el código 770-9999-123456, si la empresa decide lanzar una nueva presentación o cambiar el sabor del cereal, tendrá otro código. Cabe resaltar que en el código de barras no se almacena información, como el lote o fecha de fabricación o de vencimiento.
 
-            p Los códigos de barras suelen ser utilizados para identificar materias primas, así como activos, repuestos y la gran mayoría de productos de consumo que puede encontrar, por ejemplo, en un supermercado. Las ventajas son principalmente en tiempo y costos, ya que reduce los tiempos de actividades operativas de la empresa, como la recepción, el picking, la verificación, el control de los inventarios y la atención en los puntos de venta, al estandarizar los criterios de búsqueda. (Espejo, 2022, 193).         
+            p Los códigos de barras suelen ser utilizados para identificar materias primas, así como activos, repuestos y la gran mayoría de productos de consumo que puede encontrar, por ejemplo, en un supermercado. Las ventajas son principalmente en tiempo y costos, ya que reduce los tiempos de actividades operativas de la empresa, como la recepción, el <i>picking</i>, la verificación, el control de los inventarios y la atención en los puntos de venta, al estandarizar los criterios de búsqueda. (Espejo, 2022, 193).         
           .col-lg-4 
             img.img-a.img-t(src='@/assets/curso/temas/33.png', alt='') 
       .py-4.py-md-5(titulo="Gestión de inventario RFID" :icono="require('@/assets/curso/temas/30.svg')")
@@ -79,7 +79,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/34.png', alt='')  
 
     .cajon.color-primario.p-4.mb-5(data-aos="flip-down") 
-      p(data-aos="fade-down").mb-0 Para un fácil manejo de inventarios, teniendo en cuenta los grandes volúmenes de información, se hace necesario utilizar un software o herramientas que centralicen estos datos, como se describe a continuación.
+      p(data-aos="fade-down").mb-0 Para un fácil manejo de inventarios, teniendo en cuenta los grandes volúmenes de información, se hace necesario utilizar un <i>software</i> o herramientas que centralicen estos datos, como se describe a continuación.
 
     Separador 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -89,9 +89,9 @@
       .col-lg-3.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='')      
       .col-lg-9.my-3
-        p(data-aos="fade-down") En el proceso de inventario se generan grandes cantidades de datos e información que requieren ser sistematizados a través de un software. 
+        p(data-aos="fade-down") En el proceso de inventario se generan grandes cantidades de datos e información que requieren ser sistematizados a través de un <i>software</i>. 
 
-        p(data-aos="fade-down") Existen riesgos si no se planea de la forma adecuada la sistematización del inventario. Además, la programación del software puede tomar demasiado tiempo, en ocasiones “se termina, pero consumiendo muchos más recursos o con menos funcionalidades de las previstas”. (Piattini et al., 2020, 63).
+        p(data-aos="fade-down") Existen riesgos si no se planea de la forma adecuada la sistematización del inventario. Además, la programación del <i>software</i> puede tomar demasiado tiempo, en ocasiones “se termina, pero consumiendo muchos más recursos o con menos funcionalidades de las previstas”. (Piattini et al., 2020, 63).
 
         p(data-aos="fade-down") Los sistemas encargados del control de inventarios se clasifican de acuerdo con el proceso logístico, ya que, por ejemplo, los inventarios en existencia hacen referencia a los productos encontrados en el almacén, y el inventario en tránsito se refiere a los productos que están en movimiento en la red logística.
 
@@ -117,7 +117,7 @@
           .tarjeta.color-acento-botones.p-3(x="75%" y="83%" numero="2")
             p.mb-0 El método PEPS, también conocido como FIFO, se basa en determinar los primeros artículos en entrar al almacén, los cuales serán los primeros en salir; de esta manera se disminuyen los riesgos de echar a perder la mercancía por fechas de caducidad o deterioro generado a través del tiempo. 
           .tarjeta.color-acento-botones.p-3(x="25%" y="17%" numero="4")
-            p El ERP (<i>Enterprise Resource Planning</i>) es el sistema que permite planificar todos los recursos de la empresa, se trata de un software que le permite a una organización centralizar la información de las actividades financieras, todo lo relacionado con la cadena de suministro, así como elaborar informes de talento humano y reporte de indicadores. En el mercado son muchos los programas que permiten gestionar los inventarios, algunos son gratuitos y otros requieren licencia, todo depende de las necesidades que se tengan. En las empresas pequeñas, medianas o grandes algunos de los programas utilizados son:
+            p El ERP (<i>Enterprise Resource Planning</i>) es el sistema que permite planificar todos los recursos de la empresa, se trata de un <i>software</i> que le permite a una organización centralizar la información de las actividades financieras, todo lo relacionado con la cadena de suministro, así como elaborar informes de talento humano y reporte de indicadores. En el mercado son muchos los programas que permiten gestionar los inventarios, algunos son gratuitos y otros requieren licencia, todo depende de las necesidades que se tengan. En las empresas pequeñas, medianas o grandes algunos de los programas utilizados son:
             ul.lista-ul.mb-0.ps-3
               li 
                 i.fas.fa-angle-right.colorv
