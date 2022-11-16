@@ -33,7 +33,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: '1.	La calidad',
+        titulo: 'La calidad',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -83,7 +83,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: '3.	La cadena de valor',
+        titulo: 'La cadena de valor',
         desarrolloContenidos: true,
         subMenu: [
           {
