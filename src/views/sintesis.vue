@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p(data-aos="fade-down").mb-5 La calidad de los alimentos está enmarcada por diferentes factores y elementos. Para lograrlo, se debe realizar un trabajo en conjunto y garantizar un proceso de monitoreo durante todas las fases de la cadena de suministro.
+    p(data-aos="fade-down").mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5

@@ -10,8 +10,8 @@
       .col-lg-2.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.svg', alt='')      
       .col-lg-10.my-3
-        p(data-aos="fade-down") Garantizar la calidad en los productos que se comercializan o producen es fundamental para todas las empresas, porque de ello depende sostener las ventas, mantenerse en el mercado y la fidelización de los clientes. 
-    p(data-aos="fade-down").mb-5 Existen diferentes aspectos asociados a la calidad del producto, que se describen a continuación.              
+        p(data-aos="fade-down") Garantizar la calidad de los productos que se comercializan o producen, es fundamental para todas las empresas, porque de esta seguridad depende que se conserven las ventas, las organizaciones se sustenten en el mercado y los clientes permanezcan fieles a ellas. 
+    p(data-aos="fade-down").mb-5 Existen diferentes aspectos asociados con la calidad del producto, los cuales se describen a continuación:           
 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-left")
       SlyderA(tipo="b")
@@ -24,7 +24,7 @@
         .row.justify-content-center.align-items-start.pt-2
           .col-lg-4.my-3.mb-4.mb-md-0
             h4.mb-3 Ventajas o desventajas competitivas 
-            p Las afectaciones en la calidad van a traer consigo desventajas competitivas, debido a que los clientes, al evidenciar este tipo de fallas, van a querer ir a otro distribuidor u otro proveedor que les brinde el mismo producto y en óptimas condiciones; además, en mucha ocasiones, con ánimo de solventar las pérdidas durante el proceso de elaboración por temas de calidad, se incrementa el precio del producto final, trasladando este costo a los clientes, lo cual también los desmotiva, provocando que se vayan a la competencia buscando precios más favorables. (Cortés, 2017, 11) 
+            p Las afectaciones en la calidad, traen consigo desventajas competitivas, debido a que los clientes, al evidenciar las imperfecciones, van a querer ir con otros distribuidores o proveedores, que les brinden el mismo producto y en óptimas condiciones; también, en muchas ocasiones, con ánimo de solventar las pérdidas durante el proceso de elaboración, por temas de calidad, se incrementa el precio del producto final, desplazando este costo hacia los clientes, lo que también los desmotiva, incitando que se muden con la competencia, buscando precios más favorables. 
           .col-md-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/4.png', alt='') 
         .row.justify-content-center.align-items-start.pt-2
@@ -39,7 +39,7 @@
             p Cabe destacar que, aunque el producto se encuentre en buenas condiciones y cumpla con las especificaciones, esto no asegura la venta, ya que esta va a depender de los gustos de los clientes y de todo el proceso de mercadeo que realice la empresa. 
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/6.png', alt='') 
-    p(data-aos="fade-down").mb-5 Para seguir profundizando en temas de calidad, es importante conocer su definición. 
+    p(data-aos="fade-down").mb-5 Para seguir profundizando en el tema de la calidad, es importante conocer su definición.
 
     .row.justify-content-center.align-items-center.mb-4          
       .col-lg-3.my-3
@@ -60,7 +60,7 @@
     Separador 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.1 Responsables de la calidad 
-    p(data-aos="fade-down").mb-5 Teniendo claro el concepto de calidad, ahora es necesario identificar a los responsables. En el siguiente vídeo se hace una descripción y presentación de los responsables. 
+    p(data-aos="fade-down").mb-5 Con el concepto de calidad bien clarificado, ahora es necesario identificar a cada uno de los responsables dentro del proceso de control de la calidad. En el siguiente video se hace una descripción y exposición de los encargados de su logro.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
@@ -68,16 +68,15 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
+    Separador 
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2 1.2 Calidad en alimentos
+
     .row.justify-content-center.align-items-center.mb-4          
       .col-lg-2.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/9.png', alt='')      
       .col-lg-10.my-3
-        p(data-aos="fade-down") Es importante destacar que, en cuestión de productos alimenticios, se exige mucha más atención a la gestión de calidad. Para ampliar los conocimientos sobre este tema, es importante revisar el siguiente punto.            
-
-    Separador 
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 1.2 Calidad en alimentos
-    p(data-aos="fade-down").mb-5 Para garantizar la calidad, producción, procesamiento, transformación y comercialización de alimentos se debe tener en cuenta: 
+        p(data-aos="fade-down") Es importante destacar que, en cuestión de productos alimenticios, se exige mucho más cuidado con la gestión de la calidad. Para ampliar los conocimientos sobre este tema, es importante revisar con esmero la información a continuación.
     .row.justify-content-center.align-items-center.mb-4          
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/10.png', alt='')      
@@ -91,9 +90,9 @@
               p El mal manejo de los productos alimenticios y de las prácticas de manufactura puede traer problemas higiénicos o nutricionales, ya que los productos pueden cambiar con el paso del tiempo. Por esta razón, es fundamental asegurar una cadena agroalimentaria que permita entregar el producto en óptimas condiciones en los diferentes puntos de venta, ya sean centros de distribución, supermercados o tiendas de barrio. 
           .row.justify-content-center.align-items-center(titulo="Que los productos sean seguros")
             .col-12
-              p Se debe garantizar que los productos alimenticios no atenten contra la salud humana, evitando algún tipo de contaminación cruzada, garantizando que las condiciones de almacenamiento hayan sido las adecuadas, conservando las temperaturas y realizando la separación de los residuos contaminantes que pueden llegar a cambiar las propiedades organolépticas de los alimentos, o incluso causar ETA (enfermedades transmitidas por alimentos).                             
+              p Hay que garantizar que los productos alimenticios no atenten contra la salud humana, evitando cualquier contaminación cruzada y garantizando que las condiciones de almacenamiento sean las adecuadas, al conservar las temperaturas y realizar la separación de los residuos contaminantes, que pueden llegar a cambiar las propiedades organolépticas de los alimentos o, incluso, causar enfermedades transmitidas por los alimentos (ETA).                          
     .cajon.color-primario.p-4.mb-5(data-aos="flip-down") 
-      p(data-aos="fade-down").mb-0 Para ampliar la información relacionada con las ETA y los factores que propician este tipo de enfermedades, es indispensable continuar con el estudio de este recurso educativo. 
+      p(data-aos="fade-down").mb-0 Para ampliar la información relacionada con las ETA y los factores que propician este tipo de enfermedades, es indispensable revisar la información que veremos a continuación.
 
     h4(data-aos="fade-down").mb-5 Enfermedades transmitidas por alimentos
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
@@ -205,15 +204,49 @@
 
     p(data-aos="fade-down").mb-5 A continuación, se dejan algunas recomendaciones con ánimo de evitar enfermedades transmitidas por alimentos: 
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/22.svg', alt='')       
+    p(data-aos="fade-down").mb-5 Recomendaciones para evitar Enfermedades Transmitidas por Alimentos - ETA
 
-    .row.justify-content-center.align-items-center       
-      .col-lg-10
-        .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/23.png')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p.mb-0 Ya se identificaron algunas características asociadas a la gestión de la calidad de alimentos y las causas de no cumplir con estándares de calidad en la producción y comercialización de alimentos. Ahora se revisará otro aspecto fundamental para el control de calidad, como lo son los inventarios. 
+    .row.justify-content-center.align-items-center 
+      .col-lg-8(data-aos="fade-left")
+        .tarjeta-avatar-b
+          .tarjeta-avatar-b__img
+            img.img-a.img-t(src='@/assets/curso/temas/60.svg' alt='')
+          .tarjeta.bga1
+            .p-4
+              h4 Mantener la limpieza
+              ul.lista-ul.ps-3
+                li 
+                  i.fas.fa-check.colorv
+                  p.mb-0 Lavarse las manos antes de la preparación de alimentos y de manera frecuente durante la preparación.
+                li 
+                  i.fas.fa-check.colorv
+                  p.mb-0 Lavarse las manos después de ir al baño.
+                li 
+                  i.fas.fa-check.colorv
+                  p.mb-0 Lavar y desinfectar todas las áreas de trabajo, así como los equipos usados durante la preparación de alimentos.
+                li 
+                  i.fas.fa-check.colorv
+                  p.mb-0 Proteger los alimentos y las superficies de la cocina de todo tipo de insectos, así como de mascotas u otros animales; para ello se recomienda mantener los alimentos en recipientes herméticos.
+                  
+    .row.justify-content-center.align-items-center 
+      .col-lg-8(data-aos="fade-right")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.img-a.img-t(src='@/assets/curso/temas/61.svg' alt='')
+          .tarjeta.bga2
+            .p-4
+              h4 Separar alimentos   
+              ul.lista-ul.ps-3
+                li 
+                  i.fas.fa-check.colorv
+                  p.mb-0 Separar los alimentos crudos de aquellos que se encuentren disponibles para el consumo.
+                li 
+                  i.fas.fa-check.colorv
+                  p.mb-0 Usar equipos como cuchillos o tablas de picar, de manera separada para el pollo, las carnes y las verduras.
+                li 
+                  i.fas.fa-check.colorv
+                  p.mb-0 Cocinar completamente los alimentos, en especial la carne, el pollo, los huevos y el pescado.
+
 </template>
 
 <script>

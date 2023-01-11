@@ -14,9 +14,8 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 La logística juega un papel fundamental en la cadena de suministro o cadena de valor, las teorías y el manejo que se le da han venido evolucionando. Por ejemplo, para el caso del manejo de almacenamiento se ha generado un cambio, ya que anteriormente se pensaba que lo mejor era manejar grandes volúmenes de inventario sin importar el costo, lo importante era adquirir productos durante las gangas o precios bajos, hoy en día se debe ser muy inteligente para generar estas compras, porque es necesario pensar en los costos de almacenamiento y la rotación de los productos, entre otros factores. (Mauleón y Prado, 2021, 297). 
 
-    Separador 
-    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 3.1 Eslabones de la cadena 
+    h4.mb-5(data-aos="zoom-in-left") Eslabones de la cadena 
+
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         p(data-aos="fade-down").text-center La cadena de suministro debe ser lo suficientemente fuerte como para no afectar ninguno de sus eslabones, porque si algo se presenta esto se refleja en el consumidor final. Los eslabones de la cadena son el abastecimiento, la fabricación y la distribución, cada uno de ellos debe ser lo suficientemente fuerte, ya que en la actualidad se menciona que la competencia no es entre una organización o empresa y otra, sino entre una cadena de suministro y otra.  
@@ -57,9 +56,8 @@
         p(data-aos="fade-down").mb-0.p-3 Actualmente, cada vez cobra mayor importancia la necesidad de reducir los desechos y residuos que todos generamos. Por lo general, la mayoría de los residuos sólidos son envases o recipientes, así como embalajes, como sucede en el caso de los refrescos, bebidas carbonatadas, lácteos, entre otros, y es allí donde la logística inversa busca la recuperación de los residuos originados por una actividad de consumo o productiva. (Espejo, 2022, 5).
       .col-lg-4.p-0.my-3
         img.img-t.img-m(data-aos="zoom-in")(src='@/assets/curso/temas/41.png', alt='')
-    Separador 
-    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 3.2 Logística inversa
+
+    h4.mb-5(data-aos="zoom-in-left") Logística inversa
 
     .row.justify-content-center.align-items-center.mb-4          
       .col-lg-4.my-3
@@ -70,7 +68,6 @@
           p(data-aos="fade-down").mb-0 Otro tipo de elementos que se pueden recopilar mediante la logística inversa son los derivados de procesos industriales o de construcción, también los de la industria automotriz, como por ejemplo neumáticos fuera de uso y residuos de equipos electrónicos, ya que estos tipos de desechos no pueden ser depositados en la basura residencial. 
         p(data-aos="fade-down") A continuación, se listan algunas de las ventajas y desventajas de la logística inversa. 
 
-    h4(data-aos="fade-down") Ventajas de la logística inversa 
     p(data-aos="fade-down").mb-5 Las ventajas que se obtienen al aplicar la logística inversa son:
 
     .row.justify-content-center.mb-5
@@ -110,7 +107,6 @@
             h4.mb-3 Mejora las relaciones 
             p.mb-0 Entre el cliente y los diferentes proveedores, dado que ambas partes se benefician de este proceso.
 
-    h4(data-aos="fade-down") Desventajas de la logística inversa
     p(data-aos="fade-down").mb-5 Algunas desventajas de la logística inversa son:
     TabsA.color-acento-contenido.mb-5
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Aumenta el trabajo ") 
@@ -121,7 +117,7 @@
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')   
 
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Requiere la participación de todas las áreas de la empresa") 
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Requiere la participación <br>de todas las áreas de la empresa") 
         .row.justify-content-center.align-items-start
           .col-lg-8
             h4 Requiere la participación de todas las áreas de la empresa 
@@ -136,23 +132,16 @@
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='') 
 
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Cantidades devueltas demasiado pequeñas") 
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Cantidades devueltas<br> demasiado pequeñas") 
         .row.justify-content-center.align-items-start
           .col-lg-8
-            h4 Cantidades devueltas demasiado pequeñas 
+            h4 Devolución de cantidades muy reducidas de producto
             p Esto ocasiona que los costos de recolección, transporte, inspección y manufactura sean muy elevados para cantidades que no merecen ese trabajo. 
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/51.png', alt='')
-            
-    .row.justify-content-center.align-items-center.mb-4           
-      .col-lg-2.my-3
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/52.svg', alt='')      
-      .col-lg-10.my-3
-        p(data-aos="fade-down") En la cadena de valor, y para la correcta gestión de la calidad de los alimentos, es necesario que se tenga trazabilidad del producto, como se explica en el siguiente tema.
 
-    Separador 
-    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 3.3 Trazabilidad del producto
+
+    h4.mb-5(data-aos="zoom-in-left") Trazabilidad del producto
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img.img-h(
@@ -262,6 +251,10 @@
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/57.png', alt='')                 
                
+    .row.justify-content-center.align-items-center      
+      .col-lg-10               
+        .cajon.color-primario.p-4(data-aos="flip-down") 
+          p(data-aos="fade-down").mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.                
 </template>
 
 <script>

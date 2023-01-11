@@ -11,7 +11,9 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Control de calidad de alimentos
-        p.mb-4 Con ánimo de realizar una revisión de las temáticas presentadas, realiza la siguiente actividad donde se debe asociar el concepto con su definición.
+        p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+        p.mb-4 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

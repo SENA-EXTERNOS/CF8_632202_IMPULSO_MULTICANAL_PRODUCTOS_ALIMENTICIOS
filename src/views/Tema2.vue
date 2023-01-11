@@ -8,15 +8,15 @@
       h1 Gestión de inventarios
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.my-3
-        p(data-aos="fade-down") El inventario es el proceso mediante el cual se registran los artículos o los materiales que una empresa posee, con la intención de venderlos a futuros clientes. La gestión de inventario es fundamental durante la cadena de suministro; se debe realizar un seguimiento desde el momento de la fabricación hasta los centros de distribución, y desde allí hasta los supermercados o puntos de venta. Lo que se busca con la gestión de inventario es tener los productos correctos en el momento y lugar preciso. 
-
-        p(data-aos="fade-down") Para llevar un control adecuado de los inventarios se deben realizar los pedidos en el momento idóneo, procurando no afectar la disponibilidad del producto en los puntos de venta, realizando la rotación adecuada para evitar productos vencidos que afecten la salud de los clientes, que contaminen otros productos, y en especial, que impacten de manera negativa la imagen de la compañía, y por consiguiente de las ventas, puesto que los clientes no querrán regresar a un lugar donde tuvieron una mala experiencia. 
+        p(data-aos="fade-down") Como ya hemos identificado algunas características asociadas con la gestión de la calidad de los alimentos y las consecuencias por no cumplir con los estándares de calidad en la producción y comercialización de alimentos, vamos a aprender sobre otro aspecto fundamental para el control de la calidad, y es la gestión de los inventarios.      
+        .cajon.color-primario.p-4(data-aos="flip-down") 
+          p(data-aos="fade-down").mb-0 El inventario es el proceso mediante el cual se registran los artículos o los materiales que una empresa posee, con la intención de venderlos a futuros clientes. La gestión de inventario es fundamental durante la cadena de suministro; se debe realizar un seguimiento desde el momento de la fabricación hasta los centros de distribución, y desde allí hasta los supermercados o puntos de venta. Lo que se busca con la gestión de inventario es tener los productos correctos en el momento y lugar preciso. 
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/24.png', alt='') 
+    p(data-aos="fade-down").mb-5 Para llevar un control adecuado de los inventarios se deben realizar los pedidos en el momento idóneo, procurando no afectar la disponibilidad del producto en los puntos de venta, realizando la rotación adecuada para evitar productos vencidos que afecten la salud de los clientes, que contaminen otros productos, y en especial, que impacten de manera negativa la imagen de la compañía, y por consiguiente de las ventas, puesto que los clientes no querrán regresar a un lugar donde tuvieron una mala experiencia. 
 
-    Separador 
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.1 Justificación de los inventarios
+    h4.mb-5(data-aos="zoom-in-left") Justificación de los inventarios
+
     .row.justify-content-center.align-items-center        
       .col-lg-10       
         p(data-aos="fade-down").mb-5.text-center Por lo general, no se recomienda tener altos volúmenes de inventario, ya que esto acarrea costos de almacenamiento o riesgos de deterioro en los productos. Sin embargo, hay tres razones para manejar inventarios:
@@ -36,9 +36,8 @@
             .col-12
               p La ubicación del producto terminado es determinante para muchas empresas, por esto se crean los llamados centros de distribución, ubicados en puntos estratégicos de acuerdo a la demanda que se tiene. Muchas empresas deciden ubicar sus centros de distribución en zonas como los centros de abasto o ciudades grandes, puesto que desde allí se realizan los envíos a los mayoristas o directamente a los puntos de venta; con esto se disminuyen costos de transporte y de almacenamiento, al no tener bodegas o puntos de reparto en cada ciudad donde se tiene una tienda. En algunas ocasiones, se opta por dejar un país como centro de distribución, y desde allí generar las reposiciones en menor tiempo, trayendo consigo ventajas sobre la competencia por la atención y efectividad en la respuesta que se le brinda a los clientes.
 
-    Separador 
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.2 Tipos de gestión de inventario
+    h4.mb-5(data-aos="zoom-in-left") Tipos de gestión de inventario
+
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-2.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/26.svg', alt='')      
@@ -78,26 +77,22 @@
           .col-lg-4 
             img.img-a.img-t(src='@/assets/curso/temas/34.png', alt='')  
 
-    .cajon.color-primario.p-4.mb-5(data-aos="flip-down") 
-      p(data-aos="fade-down").mb-0 Para un fácil manejo de inventarios, teniendo en cuenta los grandes volúmenes de información, se hace necesario utilizar un <i>software</i> o herramientas que centralicen estos datos, como se describe a continuación.
-
-    Separador 
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.3 Sistemas de información 
+    h4.mb-5(data-aos="zoom-in-left") Sistemas de información 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='')      
       .col-lg-9.my-3
-        p(data-aos="fade-down") En el proceso de inventario se generan grandes cantidades de datos e información que requieren ser sistematizados a través de un <i>software</i>. 
+        p(data-aos="fade-down") Para un mejor manejo de los inventarios y conociendo los extensos volúmenes de información que se manejan, se hace necesario utilizar <i>software</i> o herramientas que centralicen estos datos.
 
-        p(data-aos="fade-down") Existen riesgos si no se planea de la forma adecuada la sistematización del inventario. Además, la programación del <i>software</i> puede tomar demasiado tiempo, en ocasiones “se termina, pero consumiendo muchos más recursos o con menos funcionalidades de las previstas”. (Piattini et al., 2020, 63).
+        p(data-aos="fade-down") En el proceso de mantenimiento de inventarios, con las enormes cantidades de datos y de información que se manipula, se requiere de métodos sistematizados a través de un <i>software</i>, como se describe seguidamente.
 
-        p(data-aos="fade-down") Los sistemas encargados del control de inventarios se clasifican de acuerdo con el proceso logístico, ya que, por ejemplo, los inventarios en existencia hacen referencia a los productos encontrados en el almacén, y el inventario en tránsito se refiere a los productos que están en movimiento en la red logística.
-
-    .row.justify-content-center.align-items-center.mb-5           
+        .cajon.color-primario.p-4(data-aos="flip-down") 
+          p(data-aos="fade-down").mb-0 Existen riesgos si no se planea de la forma adecuada la sistematización del inventario. Además, la programación del <i>software</i> puede tomar demasiado tiempo, en ocasiones “se termina, pero consumiendo muchos más recursos o con menos funcionalidades de las previstas”. (Piattini et al., 2020, 63).
+    p(data-aos="fade-down").mb-5 Los sistemas encargados del control de inventarios se clasifican de acuerdo con el proceso logístico, ya que, por ejemplo, los inventarios en existencia hacen referencia a los productos encontrados en el almacén, y el inventario en tránsito se refiere a los productos que están en movimiento en la red logística.
+    .row.justify-content-center.align-items-center     
       .col-lg-10
-        ImagenInfografica.color-acento-botones.mb-5
+        ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
               img.img-a.img-t(src='@/assets/curso/temas/36.svg', alt='')
@@ -145,11 +140,7 @@
                 p.mb-0 Alegra 
           .tarjeta.color-acento-botones.p-3(x="25%" y="83%" numero="3")
             p.mb-0 El sistema EOQ (<i>Economic Order Quantity</i>) consiste en tomar una demanda conocida y constante, y con base en esto, determinar los costos de mantener un inventario y generar los puntos de reorganización, en el momento exacto y por las cantidades idóneas, teniendo en cuenta, por ejemplo, los descuentos por compras y por volumen.           
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-2.my-3
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/37.svg', alt='')      
-      .col-lg-10.my-3
-        p(data-aos="fade-down") Además de los inventarios, para el control y gestión de la calidad la trazabilidad de los productos en la cadena de suministros juega un papel fundamental que se describe a continuación.          
+
 </template>
 
 <script>
