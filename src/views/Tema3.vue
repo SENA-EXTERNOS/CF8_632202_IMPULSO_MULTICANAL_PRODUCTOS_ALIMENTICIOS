@@ -132,7 +132,7 @@
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='') 
 
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Cantidades devueltas<br> demasiado pequeñas") 
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Devolución de cantidades<br> muy reducidas de producto") 
         .row.justify-content-center.align-items-start
           .col-lg-8
             h4 Devolución de cantidades muy reducidas de producto
