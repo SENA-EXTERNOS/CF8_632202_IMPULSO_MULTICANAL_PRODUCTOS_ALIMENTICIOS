@@ -66,7 +66,8 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/VnkYJtRXTHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Responsables de la calidad
 
     Separador 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
