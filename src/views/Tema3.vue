@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/38.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La logística juega un papel fundamental en la cadena de suministro o cadena de valor, las teorías y el manejo que se le da han venido evolucionando. Por ejemplo, para el caso del manejo de almacenamiento se ha generado un cambio, ya que anteriormente se pensaba que lo mejor era manejar grandes volúmenes de inventario sin importar el costo, lo importante era adquirir productos durante las gangas o precios bajos, hoy en día se debe ser muy inteligente para generar estas compras, porque es necesario pensar en los costos de almacenamiento y la rotación de los productos, entre otros factores. (Mauleón y Prado, 2021, 297). 
+        p.mb-0 La logística juega un papel fundamental en la cadena de suministro o cadena de valor, las teorías y el manejo que se le da han venido evolucionando. Por ejemplo, para el caso del manejo de almacenamiento se ha generado un cambio, ya que, anteriormente se pensaba que lo mejor era manejar grandes volúmenes de inventario sin importar el costo, lo importante era adquirir productos durante las gangas o precios bajos, hoy en día se debe ser muy inteligente para generar estas compras, porque es necesario pensar en los costos de almacenamiento y la rotación de los productos, entre otros factores. (Mauleón y Prado, 2021, 297). 
 
     h4.mb-5(data-aos="zoom-in-left") Eslabones de la cadena 
 
@@ -117,14 +117,14 @@
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')   
 
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Requiere la participación <br>de todas las áreas de la empresa") 
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Requiere la participación <br>de todas las áreas <br>de la empresa") 
         .row.justify-content-center.align-items-start
           .col-lg-8
             h4 Requiere la participación de todas las áreas de la empresa 
             p Mediante este proceso una gran parte de la compañía debe involucrarse, de lo contrario, solo se conseguirá aumentar el trabajo sin obtener algún beneficio. 
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/49.png', alt='')  
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Contar con personal calificado") 
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Contar con <br>personal calificado") 
         .row.justify-content-center.align-items-start
           .col-lg-8
             h4 Contar con personal calificado 
@@ -132,7 +132,7 @@
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='') 
 
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Devolución de cantidades<br> muy reducidas de producto") 
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Devolución de cantidades<br> muy <br>reducidas de producto") 
         .row.justify-content-center.align-items-start
           .col-lg-8
             h4 Devolución de cantidades muy reducidas de producto
