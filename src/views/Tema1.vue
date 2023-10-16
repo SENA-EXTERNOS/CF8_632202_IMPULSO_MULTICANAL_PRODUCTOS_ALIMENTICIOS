@@ -45,7 +45,7 @@
       .col-lg-3.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/7.svg', alt='')      
       .col-lg-9.my-3
-        p(data-aos="fade-down") La calidad es el “grado en el que un conjunto de características inherentes cumple con las necesidades o expectativas establecidas, implícitas u obligatorias.” (Cortés, 2017, 10).    
+        p(data-aos="fade-down") La calidad es el “grado en el que un conjunto de características inherentes cumple con las necesidades o expectativas establecidas, implícitas u obligatorias” (Cortés, 2017, 10).    
         .cajon.color-primario.p-4(data-aos="flip-down") 
           p(data-aos="fade-down").mb-0 Es decir, la calidad exige que se identifiquen, establezcan y cumplan unos criterios o medidas específicas, que atiendan a los requerimientos de los individuos o clientes, teniendo en cuenta que la calidad debe ser fácil de determinar por uno u otro inspector.
 
